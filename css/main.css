@@ -1,6 +1,11 @@
 /*CARACTERÍSTICAS GENERALES*/
 section {
 	display: block;
+	overflow: auto;
+	font-family: 'Sofia', cursive;
+	border: 2px dotted gray;
+	background-color: lightblue;
+	margin-bottom: 20px;
 }
 
 h2 {
@@ -25,10 +30,6 @@ h2 {
 	background-color: red;
 }
 
-/*Ocualtar secciones no correspondientes*/
-#ejercicio1 {
-	display: none;
-}
 
 /*Cajas individuales*/
 
