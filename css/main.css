@@ -1,4 +1,3 @@
-
 /*CARACTERÍSTICAS GENERALES*/
 .caja {
 	width: 100px;
@@ -16,4 +15,10 @@
 
 .caja3 {
 	background-color: red;
+}
+
+/*Cajas individuales*/
+
+#caja11, #caja12, #caja13 {
+	float: left;
 }
