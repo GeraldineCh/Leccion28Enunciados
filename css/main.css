@@ -1,0 +1,19 @@
+
+/*CARACTERÍSTICAS GENERALES*/
+.caja {
+	width: 100px;
+	height: 100px
+}
+
+/*Colores*/
+.caja1 {
+	background-color: yellow;
+}
+
+.caja2 {
+	background-color: blue;
+}
+
+.caja3 {
+	background-color: red;
+}
