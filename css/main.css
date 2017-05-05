@@ -1,4 +1,12 @@
 /*CARACTERÍSTICAS GENERALES*/
+section {
+	display: block;
+}
+
+h2 {
+	margin-left: 0px;
+}
+
 .caja {
 	width: 100px;
 	height: 100px
@@ -17,8 +25,17 @@
 	background-color: red;
 }
 
+/*Ocualtar secciones no correspondientes*/
+#ejercicio1 {
+	display: none;
+}
+
 /*Cajas individuales*/
 
 #caja11, #caja12, #caja13 {
 	float: left;
+}
+
+#caja21, #caja22, #caja23 {
+	float: right;
 }
